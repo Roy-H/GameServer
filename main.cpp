@@ -331,7 +331,7 @@ int startup(u_short *port)
 int main(int argc, const char * argv[])
 {
     int server_sock = -1;
-    u_short port = 80880;
+    u_short port = 8089;
     int client_sock = -1;
     //sockaddr_in 是 IPV4的套接字地址结构。定义在<netinet/in.h>,参读《TLPI》P1202
     struct sockaddr_in client_name;
