@@ -1,0 +1,1 @@
+spinup: app/main 
