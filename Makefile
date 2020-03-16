@@ -1,2 +1,2 @@
-main:main.c
-	gcc main.c -o main
+main:main.cpp
+	g++ main.cpp -o main
