@@ -1,1 +1,1 @@
-spinup: app/main 
+spinup: app/main
